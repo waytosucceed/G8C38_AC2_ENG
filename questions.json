@@ -1,0 +1,243 @@
+[
+  {
+      "questionNo": "Q1.",
+      "question": "Convert the sentence <span style='color:blue'> \"She finished the assignment yesterday.\"</span> into a past perfect interrogative sentence.",
+      "options": [
+          "Had she finished the assignment yesterday?",
+          "Did she finish the assignment yesterday?",
+          "Had she finished the assignment?",
+          "Has she finished the assignment yesterday?"
+      ],
+      "correct": 2,
+      "explanation": "To change the sentence \"She finished the assignment yesterday\" into past perfect, we use \"had\" + the past participle form of the verb (\"finished\"). In the interrogative form, we swap the subject (\"she\") and the auxiliary verb (\"had\"). The correct sentence is: \"Had she finished the assignment?\" The word \"yesterday\" is not needed because the past perfect tense already shows that the action was completed before another past event."
+  },
+  {
+      "questionNo": "Q2.",
+      "question": "Convert the sentence <span style='color:blue'> \"They watched the movie last night.\" </span>into a past perfect interrogative sentence.",
+      "options": [
+          "Had they watched the movie last night?",
+          "Did they watch the movie last night?",
+          "Had they watched the movie?",
+          "Have they watched the movie last night?"
+      ],
+      "correct": 2,
+      "explanation": "In past perfect tense, we use \"had\" + the past participle of the verb. The correct form is \"Had they watched the movie?\" The word \"last night\" is not necessary because the past perfect tense already indicates an action that was completed before another past event."
+  },
+  {
+      "questionNo": "Q3.",
+      "question": "Convert the sentence <span style='color:blue'> \"She left the party early.\" </span>into a past perfect interrogative sentence.",
+      "options": [
+          "Had she left the party early?",
+          "Did she leave the party early?",
+          "Had she left the party?",
+          "Has she left the party early?"
+      ],
+      "correct": 0,
+      "explanation": "In the past perfect tense, \"had\" + past participle (\"left\") is used. The word \"early\" is not necessary in past perfect, but it doesn't make the sentence incorrect. The correct form is \"Had she left the party early?\""
+  },
+  {
+      "questionNo": "Q4.",
+      "question": "Convert the sentence <span style='color:blue'> \"They completed the project on time.\" </span> into a past perfect interrogative sentence.",
+      "options": [
+          "Had they completed the project on time?",
+          "Did they complete the project on time?",
+          "Have they completed the project on time?",
+          "Had they completed the project?"
+      ],
+      "correct": 0,
+      "explanation": "To form a past perfect interrogative sentence, use \"had\" + the past participle of the verb (\"completed\"). In this case, \"Had they completed the project on time?\" is correct. The word \"on time\" adds extra detail but is not necessary for the tense."
+  },
+  {
+      "questionNo": "Q5.",
+      "question": "<span style='color:blue'>\"She has painted the mural.\"</span> Convert this to a present perfect continuous interrogative sentence.",
+      "options": [
+          "Does she paint the mural?",
+          "Has she been painting the mural?",
+          "Has she painted the mural?",
+          "Is she painting the mural?"
+      ],
+      "correct": 1,
+      "explanation": "To convert a present perfect sentence to a present perfect continuous interrogative, we need the structure \"Has/Have [subject] been [verb-ing].\" Here, the sentence becomes \"Has she been painting the mural?\" as it uses \"Has\" (present perfect auxiliary), \"she\" (subject), \"been,\" and \"painting\" (present participle). Options A and C use incorrect tense forms, and D changes to a present continuous interrogative."
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "Convert the sentence <span style='color:blue'> \"They have arranged the documents.\"</span> into a present perfect continuous interrogative sentence.",
+    "options": [
+        "Do they arrange the documents?",
+        "Are they arranging the documents?",
+        "Have they been arranging the documents?",
+        "Has they been arranging the documents?"
+    ],
+    "correct": 2,
+    "explanation": "The correct form for a present perfect continuous interrogative is \"Have they been arranging the documents?\" It begins with \"Have\" (for plural subjects), followed by the subject \"they,\" \"been,\" and the \"-ing\" form of the verb \"arranging.\" Options A and B use incorrect tense forms, while D uses an incorrect auxiliary for a plural subject."
+},
+{
+    "questionNo": "Q7.",
+    "question": "Convert the sentence <span style='color:blue'> \"He has cleaned the lab.\"</span> into a present perfect continuous interrogative sentence.",
+    "options": [
+        "Has he been cleaning the lab?",
+        "Is he cleaning the lab?",
+        "Does he clean the lab?",
+        "Has he been cleaned the lab?"
+    ],
+    "correct": 0,
+    "explanation": "The present perfect continuous interrogative form requires \"Has [subject] been [verb-ing].\" Therefore, \"Has he been cleaning the lab?\" is correct. It uses \"Has\" (present perfect auxiliary), followed by \"he\" (subject), \"been,\" and \"cleaning\" (present participle of the verb). Option B changes the tense, while C and D are incorrect due to errors in form and tense."
+},
+{
+    "questionNo": "Q8.",
+    "question": "Convert the sentence <span style='color:blue'> \"They have organised the files.\"</span> into a present perfect continuous interrogative sentence.",
+    "options": [
+        "Do they organise the files?",
+        "Have they organised the files?",
+        "Have they been organising the files?",
+        "Has they been organising the files?"
+    ],
+    "correct": 2,
+    "explanation": "For a present perfect continuous interrogative, we need \"Have [subject] been [verb-ing].\" Here, \"Have they been organising the files?\" is correct as it uses \"Have\" for the plural subject \"they,\" followed by \"been,\" and \"organising\" as the \"-ing\" form of the verb. Options A and B are incorrect tense forms, while D uses the incorrect auxiliary \"Has\" for a plural subject."
+},
+{
+    "questionNo": "Q9.",
+    "question": "Convert the sentence <span style='color:blue'> \"She has assembled the machine.\"</span> into a present perfect continuous interrogative sentence.",
+    "options": [
+        "Does she assemble the machine?",
+        "Has she been assembling the machine?",
+        "Is she assembling the machine?",
+        "Has she assembled the machine?"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is \"Has she been assembling the machine?\" In the present perfect continuous interrogative form, we use \"Has [subject] been [verb-ing].\" This structure includes \"Has\" (present perfect auxiliary), \"she\" (subject), \"been,\" and \"assembling\" (present participle). Options A and C change the tense, while D fails to maintain the continuous aspect required in the conversion."
+},
+{
+    "questionNo": "Q10.",
+    "question": "Convert the sentence <span style='color:blue'> \"They had been waiting for the bus when it started raining.\"</span> into a present perfect continuous interrogative sentence.",
+    "options": [
+        "Have they been waiting for the bus?",
+        "Had they been waiting for the bus?",
+        "Have they been waiting for the bus when it started raining?",
+        "Had they waited for the bus?"
+    ],
+    "correct": 0,
+    "explanation": "To convert the past perfect continuous to present perfect continuous, we change \"had been\" to \"have been.\" The phrase \"when it started raining\" is irrelevant in the present perfect continuous form, as it refers to a specific past event, but the action of waiting is continuous. The correct sentence is \"Have they been waiting for the bus?\""
+},
+{
+    "questionNo": "Q11.",
+    "question": "Convert the sentence <span style='color:blue'> \"He was not reviewing the data.\" </span>into a past continuous interrogative sentence.",
+    "options": [
+        "Had he reviewed the data?",
+        "Was he reviewing the data?",
+        "Does he review the data?",
+        "Is he reviewing the data?"
+    ],
+    "correct": 1,
+    "explanation": "In the past continuous interrogative, the structure is \"Was/Were [subject] [verb-ing].\" The correct answer, \"Was he reviewing the data?\" correctly uses \"Was\" (since <span style='color:blue'> \"he\" is singular), followed by the subject \"he\" and the \"-ing\" form \"reviewing.\" Options A, C, and D use incorrect tenses (past perfect, simple present, and present continuous, respectively)."
+},
+
+{
+  "questionNo": "Q12.",
+  "question": "Convert the sentence <span style='color:blue'> \"She had been studying for hours before the test.\"</span> into a present perfect continuous interrogative sentence.",
+  "options": [
+      "Has she been studying for hours before the test?",
+      "Had she been studying for hours before the test?",
+      "Has she been studying for hours?",
+      "Had she studied for hours before the test?"
+  ],
+  "correct": 2,
+  "explanation": "To convert a past perfect continuous sentence to present perfect continuous, we replace \"had been\" with \"has been\" (for third-person singular). The phrase \"before the test\" is not necessary in present perfect continuous, but \"for hours\" remains as it expresses duration. The correct sentence is \"Has she been studying for hours?\""
+},
+{
+  "questionNo": "Q13.",
+  "question": "Present Perfect Affirmative sentence:<span style='color:blue'>\"They have explored the forest thoroughly.\"</span> Can it be converted into a Present Perfect Continuous Interrogative sentence as follows: <span style='color:blue'>\"Have they been exploring the forest thoroughly?\"</span>",
+  "options": [
+      "False",
+      "True",
+      "Both A and B",
+      "None of the above"
+  ],
+  "correct": 1,
+  "explanation": "This conversion is correct. To form a present perfect continuous interrogative, the auxiliary verb \"have\" is used at the beginning, followed by the subject \"they,\" and \"been\" is added to indicate continuous action. The verb changes to its -ing form, \"exploring,\" to show ongoing action, resulting in the sentence: \"Have they been exploring the forest thoroughly?\""
+},
+{
+  "questionNo": "Q14.",
+  "question": "Present Perfect Affirmative sentence:<span style='color:blue'> \"She has painted landscapes every summer.\"</span> Can it be converted into a Present Perfect Continuous Interrogative sentence as follows: <span style='color:blue'>\"Has she been painting landscapes every summer?\"</span>",
+  "options": [
+      "False",
+      "True",
+      "Both A and B",
+      "None of the above"
+  ],
+  "correct": 1,
+  "explanation": "This statement is true, as the conversion follows the correct structure. Starting with \"Has,\" followed by the subject \"she,\" \"been\" is added to indicate continuous action, and \"painting\" is used in the -ing form, making the sentence: \"Has she been painting landscapes every summer?\" This correctly expresses an ongoing action."
+},
+{
+  "questionNo": "Q15.",
+  "question": "Present Perfect Affirmative sentence: <span style='color:blue'>\"We have discussed this topic repeatedly.\"</span> Can it be converted into a Present Perfect Continuous Interrogative sentence as follows:<span style='color:blue'> \"Have we been discussing this topic repeatedly?\"</span>",
+  "options": [
+      "False",
+      "True",
+      "Both A and B",
+      "None of the above"
+  ],
+  "correct": 1,
+  "explanation": "The answer is true because the sentence has been converted correctly. To form a present perfect continuous interrogative sentence, \"Have\" is placed first, then the subject \"we,\" followed by \"been,\" and the verb in the -ing form, \"discussing.\" This structure captures the continuous nature of discussing the topic repeatedly."
+},
+{
+  "questionNo": "Q16.",
+  "question": "Present Perfect Affirmative sentence: <span style='color:blue'>\"They have cooked meals together for years.\" </span>Can it be converted into a Present Perfect Continuous Interrogative sentence as follows:<span style='color:blue'> \"Have they cooking meals together for years?\"</span>",
+  "options": [
+      "False",
+      "True",
+      "Both A and B",
+      "None of the above"
+  ],
+  "correct": 0,
+  "explanation": "This conversion is incorrect. The sentence omits the essential word \"been\" needed for the present perfect continuous form. The correct conversion would be: \"Have they been cooking meals together for years?\" Using \"been\" after \"have\" and before the -ing form \"cooking\" is required to form a grammatically correct present perfect continuous interrogative sentence."
+},
+{
+  "questionNo": "Q17.",
+  "question": "Present Perfect Affirmative sentence:<span style='color:blue'> \"She has written letters to her family every week.\"</span> Can it be converted into a Present Perfect Continuous Interrogative sentence as follows: <span style='color:blue'>\"Does she been writing letters to her family every week?\"</span>",
+  "options": [
+      "False",
+      "True",
+      "Both A and B",
+      "None of the above"
+  ],
+  "correct": 0,
+  "explanation": "The conversion is incorrect. Instead of \"Does,\" which is used in simple present interrogatives, the present perfect continuous interrogative should start with \"Has.\" The correct form would be: \"Has she been writing letters to her family every week?\" The auxiliary \"Has\" with \"been\" and the -ing form \"writing\" is necessary to indicate ongoing action in the present perfect continuous tense."
+},
+{
+  "questionNo": "Q18.",
+  "question": "Simple Present Affirmative sentence: <span style='color:blue'>\"She enjoys reading mystery novels.\"</span> Can it be converted into a Simple Past Interrogative sentence as follows: <span style='color:blue'>\"Did she enjoy reading mystery novels?\"</span>",
+  "options": [
+      "False",
+      "True",
+      "Both A and B",
+      "None of the above"
+  ],
+  "correct": 1,
+  "explanation": "This conversion is correct. To change a simple present affirmative sentence into a simple past interrogative, we replace the verb's present form with the auxiliary \"Did\" followed by the base form of the verb. In this case, \"enjoys\" (present) is converted to \"Did...enjoy\" (past interrogative), making the sentence: \"Did she enjoy reading mystery novels?\" This follows the structure for forming simple past interrogative sentences, which is Did + subject + base form of the verb + object/other information."
+},
+{
+  "questionNo": "Q19.",
+  "question": "Convert the verb given in brackets from Simple Present to Present Perfect Continuous: <br><span style='color:blue'>They __________ (run) every morning for the past year.</span>",
+  "options": [
+      "run",
+      "are running",
+      "have been running",
+      "have run"
+  ],
+  "correct": 2,
+  "explanation": "The sentence starts in the simple present (\"run\"), but we're asked to convert it to the present perfect continuous tense to indicate an ongoing action that began in the past and continues into the present. The correct form is \"have been running,\" which follows the structure: have/has + been + verb-ing. \"Run\" is simple present, \"are running\" is present continuous, and \"have run\" is present perfect, but none of these convey the continuous nature of the action like the present perfect continuous does."
+},
+{
+  "questionNo": "Q20.",
+  "question": "Convert the verb given in brackets from Simple Present to Present Perfect Continuous: <br><span style='color:blue'>She __________ (study) French for two years.</span>",
+  "options": [
+      "studies",
+      "is studying",
+      "has been studying",
+      "has studied"
+  ],
+  "correct": 2,
+  "explanation": "The sentence begins in the simple present (\"studies\"), but the correct conversion to present perfect continuous reflects an ongoing action that started in the past and continues to the present. The correct form is \"has been studying,\" which is structured as: has + been + verb-ing. \"Studies\" is simple present, \"is studying\" is present continuous, and \"has studied\" is present perfect, but none of these express the continuous action that the present perfect continuous does."
+}
+]
